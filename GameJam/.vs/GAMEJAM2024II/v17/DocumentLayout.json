@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sebas\\source\\repos\\GameJam\\bbitogamejam\\GAMEJAM2024II\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5D54B1-D977-4DBA-9303-30C5741B05C4}|GAMEJAM2024II\\GAMEJAM2024II.vcxproj|C:\\Users\\sebas\\source\\repos\\GameJam\\bbitogamejam\\GAMEJAM2024II\\GAMEJAM2024II\\CControladora.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FF5D54B1-D977-4DBA-9303-30C5741B05C4}|GAMEJAM2024II\\GAMEJAM2024II.vcxproj|solutionrelative:GAMEJAM2024II\\CControladora.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5D54B1-D977-4DBA-9303-30C5741B05C4}|GAMEJAM2024II\\GAMEJAM2024II.vcxproj|C:\\Users\\sebas\\source\\repos\\GameJam\\bbitogamejam\\GAMEJAM2024II\\GAMEJAM2024II\\CCarro.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FF5D54B1-D977-4DBA-9303-30C5741B05C4}|GAMEJAM2024II\\GAMEJAM2024II.vcxproj|solutionrelative:GAMEJAM2024II\\CCarro.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5D54B1-D977-4DBA-9303-30C5741B05C4}|GAMEJAM2024II\\GAMEJAM2024II.vcxproj|C:\\Users\\sebas\\source\\repos\\GameJam\\bbitogamejam\\GAMEJAM2024II\\GAMEJAM2024II\\MyForm2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FF5D54B1-D977-4DBA-9303-30C5741B05C4}|GAMEJAM2024II\\GAMEJAM2024II.vcxproj|solutionrelative:GAMEJAM2024II\\MyForm2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5D54B1-D977-4DBA-9303-30C5741B05C4}|GAMEJAM2024II\\GAMEJAM2024II.vcxproj|C:\\Users\\sebas\\source\\repos\\GameJam\\bbitogamejam\\GAMEJAM2024II\\GAMEJAM2024II\\MyForm2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{FF5D54B1-D977-4DBA-9303-30C5741B05C4}|GAMEJAM2024II\\GAMEJAM2024II.vcxproj|solutionrelative:GAMEJAM2024II\\MyForm2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5D54B1-D977-4DBA-9303-30C5741B05C4}|GAMEJAM2024II\\GAMEJAM2024II.vcxproj|C:\\Users\\sebas\\source\\repos\\GameJam\\bbitogamejam\\GAMEJAM2024II\\GAMEJAM2024II\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{FF5D54B1-D977-4DBA-9303-30C5741B05C4}|GAMEJAM2024II\\GAMEJAM2024II.vcxproj|solutionrelative:GAMEJAM2024II\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5D54B1-D977-4DBA-9303-30C5741B05C4}|GAMEJAM2024II\\GAMEJAM2024II.vcxproj|C:\\Users\\sebas\\source\\repos\\GameJam\\bbitogamejam\\GAMEJAM2024II\\GAMEJAM2024II\\MyForm1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{FF5D54B1-D977-4DBA-9303-30C5741B05C4}|GAMEJAM2024II\\GAMEJAM2024II.vcxproj|solutionrelative:GAMEJAM2024II\\MyForm1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5D54B1-D977-4DBA-9303-30C5741B05C4}|GAMEJAM2024II\\GAMEJAM2024II.vcxproj|C:\\Users\\sebas\\source\\repos\\GameJam\\bbitogamejam\\GAMEJAM2024II\\GAMEJAM2024II\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FF5D54B1-D977-4DBA-9303-30C5741B05C4}|GAMEJAM2024II\\GAMEJAM2024II.vcxproj|solutionrelative:GAMEJAM2024II\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5D54B1-D977-4DBA-9303-30C5741B05C4}|GAMEJAM2024II\\GAMEJAM2024II.vcxproj|C:\\Users\\sebas\\source\\repos\\GameJam\\bbitogamejam\\GAMEJAM2024II\\GAMEJAM2024II\\MyForm1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FF5D54B1-D977-4DBA-9303-30C5741B05C4}|GAMEJAM2024II\\GAMEJAM2024II.vcxproj|solutionrelative:GAMEJAM2024II\\MyForm1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5D54B1-D977-4DBA-9303-30C5741B05C4}|GAMEJAM2024II\\GAMEJAM2024II.vcxproj|C:\\Users\\sebas\\source\\repos\\GameJam\\bbitogamejam\\GAMEJAM2024II\\GAMEJAM2024II\\MyForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FF5D54B1-D977-4DBA-9303-30C5741B05C4}|GAMEJAM2024II\\GAMEJAM2024II.vcxproj|solutionrelative:GAMEJAM2024II\\MyForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CControladora.hpp",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\GameJam\\bbitogamejam\\GAMEJAM2024II\\GAMEJAM2024II\\CControladora.hpp",
+              "RelativeDocumentMoniker": "GAMEJAM2024II\\CControladora.hpp",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\GameJam\\bbitogamejam\\GAMEJAM2024II\\GAMEJAM2024II\\CControladora.hpp",
+              "RelativeToolTip": "GAMEJAM2024II\\CControladora.hpp",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAkwGgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-26T16:34:51.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyForm2.h",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\GameJam\\bbitogamejam\\GAMEJAM2024II\\GAMEJAM2024II\\MyForm2.h",
+              "RelativeDocumentMoniker": "GAMEJAM2024II\\MyForm2.h",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\GameJam\\bbitogamejam\\GAMEJAM2024II\\GAMEJAM2024II\\MyForm2.h",
+              "RelativeToolTip": "GAMEJAM2024II\\MyForm2.h",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAUwHoAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-27T00:06:05.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MyForm1.h",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\GameJam\\bbitogamejam\\GAMEJAM2024II\\GAMEJAM2024II\\MyForm1.h",
+              "RelativeDocumentMoniker": "GAMEJAM2024II\\MyForm1.h",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\GameJam\\bbitogamejam\\GAMEJAM2024II\\GAMEJAM2024II\\MyForm1.h",
+              "RelativeToolTip": "GAMEJAM2024II\\MyForm1.h",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAAwGkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-26T16:48:44.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CCarro.hpp",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\GameJam\\bbitogamejam\\GAMEJAM2024II\\GAMEJAM2024II\\CCarro.hpp",
+              "RelativeDocumentMoniker": "GAMEJAM2024II\\CCarro.hpp",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\GameJam\\bbitogamejam\\GAMEJAM2024II\\GAMEJAM2024II\\CCarro.hpp",
+              "RelativeToolTip": "GAMEJAM2024II\\CCarro.hpp",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAAAH4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-26T16:23:07.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyForm.h [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\GameJam\\bbitogamejam\\GAMEJAM2024II\\GAMEJAM2024II\\MyForm.h",
+              "RelativeDocumentMoniker": "GAMEJAM2024II\\MyForm.h",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\GameJam\\bbitogamejam\\GAMEJAM2024II\\GAMEJAM2024II\\MyForm.h [Dise\u00F1o]",
+              "RelativeToolTip": "GAMEJAM2024II\\MyForm.h [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-26T13:41:27.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MyForm1.h [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\GameJam\\bbitogamejam\\GAMEJAM2024II\\GAMEJAM2024II\\MyForm1.h",
+              "RelativeDocumentMoniker": "GAMEJAM2024II\\MyForm1.h",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\GameJam\\bbitogamejam\\GAMEJAM2024II\\GAMEJAM2024II\\MyForm1.h [Dise\u00F1o]",
+              "RelativeToolTip": "GAMEJAM2024II\\MyForm1.h [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-26T13:41:25.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MyForm.h",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\GameJam\\bbitogamejam\\GAMEJAM2024II\\GAMEJAM2024II\\MyForm.h",
+              "RelativeDocumentMoniker": "GAMEJAM2024II\\MyForm.h",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\GameJam\\bbitogamejam\\GAMEJAM2024II\\GAMEJAM2024II\\MyForm.h",
+              "RelativeToolTip": "GAMEJAM2024II\\MyForm.h",
+              "ViewState": "AgIAAEAAAAAAAAAAAAArwHAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-26T13:56:13.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyForm2.h [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\GameJam\\bbitogamejam\\GAMEJAM2024II\\GAMEJAM2024II\\MyForm2.h",
+              "RelativeDocumentMoniker": "GAMEJAM2024II\\MyForm2.h",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\GameJam\\bbitogamejam\\GAMEJAM2024II\\GAMEJAM2024II\\MyForm2.h [Dise\u00F1o]",
+              "RelativeToolTip": "GAMEJAM2024II\\MyForm2.h [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-26T13:41:25.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MyForm.cpp",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\GameJam\\bbitogamejam\\GAMEJAM2024II\\GAMEJAM2024II\\MyForm.cpp",
+              "RelativeDocumentMoniker": "GAMEJAM2024II\\MyForm.cpp",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\GameJam\\bbitogamejam\\GAMEJAM2024II\\GAMEJAM2024II\\MyForm.cpp",
+              "RelativeToolTip": "GAMEJAM2024II\\MyForm.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-26T18:33:15.055Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

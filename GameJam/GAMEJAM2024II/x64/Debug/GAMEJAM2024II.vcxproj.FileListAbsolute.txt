@@ -1,0 +1,5 @@
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\x64\Debug\GAMEJAM2024II.vcxproj.AssemblyReference.cache
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\x64\Debug\GAMEJAM2024II.MyForm.resources
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\x64\Debug\GAMEJAM2024II.MyForm1.resources
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\x64\Debug\GAMEJAM2024II.vcxproj.GenerateResource.cache
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\x64\Debug\GAMEJAM2024II.MyForm2.resources

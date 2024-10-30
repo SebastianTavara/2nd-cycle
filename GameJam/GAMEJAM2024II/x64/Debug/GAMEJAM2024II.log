@@ -1,0 +1,490 @@
+﻿  MyForm.cpp
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(31,20): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(37,20): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(41,13): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(44,13): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(47,21): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(48,21): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(52,20): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(66,22): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(67,23): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(68,23): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(82,21): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(83,20): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(92,68): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(92,62): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(92,57): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(96,42): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(98,38): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(100,33): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(101,33): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(102,38): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(104,38): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(106,46): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(107,47): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(112,15): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(112,10): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(113,17): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(113,10): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(114,19): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(114,11): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(115,18): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(115,11): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(119,31): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(119,15): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(120,33): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(120,17): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(121,31): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(121,16): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(122,30): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(122,15): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(126,30): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(137,37): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(137,30): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(137,27): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(137,24): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CControladora.hpp(27,122): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CControladora.hpp(27,106): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CControladora.hpp(27,90): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CControladora.hpp(23,3): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CControladora.hpp(26,3): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CControladora.hpp(32,49): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CControladora.hpp(52,3): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CControladora.hpp(56,3): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CControladora.hpp(148,23): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\MyForm1.h(106,65): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\MyForm.cpp(8,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  MyForm1.cpp
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(31,20): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MyForm1.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(37,20): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MyForm1.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(41,13): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MyForm1.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(44,13): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MyForm1.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(47,21): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MyForm1.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(48,21): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MyForm1.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(52,20): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MyForm1.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(66,22): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MyForm1.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(67,23): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MyForm1.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(68,23): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MyForm1.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(82,21): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm1.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(83,20): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm1.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(92,68): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm1.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(92,62): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm1.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(92,57): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm1.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(96,42): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MyForm1.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(98,38): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MyForm1.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(100,33): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MyForm1.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(101,33): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MyForm1.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(102,38): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MyForm1.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(104,38): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MyForm1.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(106,46): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MyForm1.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(107,47): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MyForm1.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(112,15): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm1.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(112,10): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm1.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(113,17): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm1.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(113,10): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm1.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(114,19): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm1.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(114,11): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm1.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(115,18): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm1.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(115,11): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm1.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(119,31): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm1.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(119,15): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm1.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(120,33): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm1.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(120,17): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm1.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(121,31): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm1.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(121,16): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm1.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(122,30): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm1.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(122,15): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm1.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(126,30): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MyForm1.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(137,37): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm1.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(137,30): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm1.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(137,27): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm1.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(137,24): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm1.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CControladora.hpp(27,122): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MyForm1.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CControladora.hpp(27,106): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MyForm1.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CControladora.hpp(27,90): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MyForm1.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CControladora.hpp(23,3): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  (compilando archivo de origen "MyForm1.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CControladora.hpp(26,3): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  (compilando archivo de origen "MyForm1.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CControladora.hpp(32,49): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm1.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CControladora.hpp(52,3): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  (compilando archivo de origen "MyForm1.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CControladora.hpp(56,3): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  (compilando archivo de origen "MyForm1.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CControladora.hpp(148,23): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm1.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\MyForm1.h(106,65): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm1.cpp")
+  
+  MyForm2.cpp
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(31,20): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MyForm2.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(37,20): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MyForm2.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(41,13): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MyForm2.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(44,13): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MyForm2.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(47,21): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MyForm2.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(48,21): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MyForm2.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(52,20): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MyForm2.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(66,22): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MyForm2.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(67,23): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MyForm2.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(68,23): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MyForm2.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(82,21): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm2.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(83,20): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm2.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(92,68): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm2.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(92,62): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm2.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(92,57): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm2.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(96,42): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MyForm2.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(98,38): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MyForm2.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(100,33): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MyForm2.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(101,33): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MyForm2.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(102,38): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MyForm2.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(104,38): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MyForm2.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(106,46): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MyForm2.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(107,47): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MyForm2.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(112,15): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm2.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(112,10): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm2.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(113,17): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm2.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(113,10): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm2.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(114,19): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm2.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(114,11): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm2.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(115,18): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm2.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(115,11): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm2.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(119,31): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm2.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(119,15): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm2.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(120,33): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm2.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(120,17): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm2.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(121,31): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm2.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(121,16): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm2.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(122,30): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm2.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(122,15): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm2.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(126,30): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MyForm2.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(137,37): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm2.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(137,30): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm2.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(137,27): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm2.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CCarro.hpp(137,24): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm2.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CControladora.hpp(27,122): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MyForm2.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CControladora.hpp(27,106): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MyForm2.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CControladora.hpp(27,90): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MyForm2.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CControladora.hpp(23,3): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  (compilando archivo de origen "MyForm2.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CControladora.hpp(26,3): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  (compilando archivo de origen "MyForm2.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CControladora.hpp(32,49): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm2.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CControladora.hpp(52,3): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  (compilando archivo de origen "MyForm2.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CControladora.hpp(56,3): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  (compilando archivo de origen "MyForm2.cpp")
+  
+C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\GAMEJAM2024II\CControladora.hpp(148,23): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm2.cpp")
+  
+  Generando código...
+  MyForm.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  GAMEJAM2024II.vcxproj -> C:\Users\sebas\source\repos\GameJam\bbitogamejam\GAMEJAM2024II\x64\Debug\GAMEJAM2024II.exe
